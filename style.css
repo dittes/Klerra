@@ -23,15 +23,14 @@ body {
   font-size: 48px;
   font-family: "Anton", sans-serif;
   color: #A0D468;
-  text-shadow: 1px 1px #2e4c0d, 2px 2px rgba(46, 76, 13, 0.7), 3px 3px rgba(46, 76, 13, 0.6), 4px 4px rgba(46, 76, 13, 0.5), 5px 5px rgba(46, 76, 13, 0.4), 6px 6px rgba(46, 76, 13, 0.3), 7px 7px rgba(46, 76, 13, 0.2), 8px 8px rgba(46, 76, 13, 0.1), 9px 9px rgba(46, 76, 13, 0.09), 10px 10px rgba(46, 76, 13, 0.08), 11px 11px rgba(46, 76, 13, 0.07), 12px 12px rgba(46, 76, 13, 0.06), 13px 13px rgba(46, 76, 13, 0.05), 14px 14px rgba(46, 76, 13, 0.04), 15px 15px rgba(46, 76, 13, 0.03), 16px 16px rgba(46, 76, 13, 0.02), 17px 17px rgba(46, 76, 13, 0.01);
-  text-transform: uppercase;
+  text-shadow: 1px 1px #2e4c0d;
 }
 
 .earthday small {
   text-align: center;
   width: 100%;
   display: table;
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 .earthday span {
